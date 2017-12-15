@@ -1,0 +1,9 @@
+c:\users\erkanguzzelkucuk\documents\visual studio 2017\Projects\CoreVueJS\CoreVueJS\bin\Debug\netcoreapp1.0\CoreVueJS.deps.json
+c:\users\erkanguzzelkucuk\documents\visual studio 2017\Projects\CoreVueJS\CoreVueJS\bin\Debug\netcoreapp1.0\CoreVueJS.runtimeconfig.json
+c:\users\erkanguzzelkucuk\documents\visual studio 2017\Projects\CoreVueJS\CoreVueJS\bin\Debug\netcoreapp1.0\CoreVueJS.runtimeconfig.dev.json
+c:\users\erkanguzzelkucuk\documents\visual studio 2017\Projects\CoreVueJS\CoreVueJS\bin\Debug\netcoreapp1.0\CoreVueJS.dll
+c:\users\erkanguzzelkucuk\documents\visual studio 2017\Projects\CoreVueJS\CoreVueJS\bin\Debug\netcoreapp1.0\CoreVueJS.pdb
+c:\users\erkanguzzelkucuk\documents\visual studio 2017\Projects\CoreVueJS\CoreVueJS\obj\Debug\netcoreapp1.0\CoreVueJS.csprojResolveAssemblyReference.cache
+c:\users\erkanguzzelkucuk\documents\visual studio 2017\Projects\CoreVueJS\CoreVueJS\obj\Debug\netcoreapp1.0\CoreVueJS.AssemblyInfo.cs
+c:\users\erkanguzzelkucuk\documents\visual studio 2017\Projects\CoreVueJS\CoreVueJS\obj\Debug\netcoreapp1.0\CoreVueJS.dll
+c:\users\erkanguzzelkucuk\documents\visual studio 2017\Projects\CoreVueJS\CoreVueJS\obj\Debug\netcoreapp1.0\CoreVueJS.pdb

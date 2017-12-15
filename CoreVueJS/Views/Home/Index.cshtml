@@ -1,0 +1,33 @@
+﻿@{
+    Layout = "~/Views/Shared/layout.cshtml";
+}
+
+<div id="app" class="container">
+    <div class="col-md-6">
+        <h2>Computers for sale</h2>
+        <ul class="list-group">
+            <li class="list-group-item" v-for="(item, index) in serverData">
+                <span class="label label-success" v-on:click="addSelectItem(index)">Select</span>
+                {{item.name}}
+                <span class="badge badge-default">{{item.price}}</span>
+
+
+            </li>
+        </ul>
+    </div>
+    <div class="col-md-6">
+        <h2>Computers shopping cart</h2>
+        <ul class="list-group">
+            <li class="list-group-item" v-if="!selectData.length">shopping cart is empty</li>
+            <li class="list-group-item" v-for="(item, index) in selectData">
+                <span class="label label-danger" v-on:click="removeSelectItem(index)">Remove from list</span>
+
+                {{item.name}}
+                <span class="badge badge-default">{{item.price}}</span>
+            </li>
+        </ul>
+    </div>
+
+
+
+</div>
